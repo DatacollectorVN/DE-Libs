@@ -11,4 +11,7 @@ conda activate DELibs-Azure
 conda config --add channels "Microsoft"
 ```
 
-- 
+- Install required packages:
+```bash
+pip install -r requirements.txt
+```
