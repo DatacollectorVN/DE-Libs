@@ -1,0 +1,4 @@
+pyodbc
+SQLAlchemy
+pandas
+loguru

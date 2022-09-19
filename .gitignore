@@ -1,3 +1,5 @@
 DWH
 **/__pycache__
 azure/azure-functions/
+**/**/config/config.ini
+**/**/sample-data
